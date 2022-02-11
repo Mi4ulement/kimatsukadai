@@ -1,6 +1,9 @@
 .showbox {
    display: inline-block;      /* ※1 */
 }
-
+.showbox p {
+   text-align: center;         /* ※2 */
+}
 .showbox img {
-   border: 2px solid skyblue;  /* ※3 *
+   border: 2px solid skyblue;  /* ※3 */
+}
