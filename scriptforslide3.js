@@ -1,8 +1,8 @@
 var imgset = [
-    "/image/hondajade.jpg",
-    "/image/hondastepwgn.jpg",
-    "/image/hondacivic.jpg",
-    "/image/hondacrz.jpg"
+    "/image/nissannote.jpg",
+    "/image/nissanxtrail.jpg",
+    "/image/nissangtr.jpg",
+    "/image/nissanfairladyz.jpg"
  ];
  // -----------------------------------------------
 // ▼関数A：指定画像を順に表示させる
@@ -38,8 +38,8 @@ function startstopshow() {
 // ▼ボタンクリックに関数を割り当てる
 document.getElementById('startstopbutton').onclick = startstopshow;
 // ▼回答ボタン
-function nazo(){if(document.getElementById('answer').value!='honda'){
+function nazo(){if(document.getElementById('answer').value!='nissan'){
    alert('はずれ、もう一回！');}else{
-      alert('正解！下のリンクから次の問題へ進んでください');
+      alert('正解！終わりです。遊んでいただきありがとうございました!');
  
 }}
