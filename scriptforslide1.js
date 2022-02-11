@@ -37,3 +37,16 @@ function startstopshow() {
 
 // ▼ボタンクリックに関数を割り当てる
 document.getElementById('startstopbutton').onclick = startstopshow;
+// ▼回答ボタン
+function nazo(){if(document.getElementById('answer').value!='honda'){
+   alert('はずれ、もう一回！');}else{
+      var result = confirm('正解！次の問題へ進みますか？');
+ 
+if( result ) {
+ 
+    console.log('ログインしました');
+ 
+}
+else {alert('問題へ戻ります');}
+ 
+}}
