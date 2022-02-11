@@ -1,0 +1,6 @@
+.showbox {
+   display: inline-block;      /* ※1 */
+}
+
+.showbox img {
+   border: 2px solid skyblue;  /* ※3 *
