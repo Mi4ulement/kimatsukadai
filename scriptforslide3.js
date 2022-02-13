@@ -1,8 +1,8 @@
 var imgset = [
-    "/image/nissannote.jpg",
-    "/image/nissanxtrail.jpg",
-    "/image/nissangtr.jpg",
-    "/image/nissanfairladyz.jpg"
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/nissannote.jpg?raw=true",
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/nissanxtrail.jpg?raw=true",
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/nissangtr.jpg?raw=true",
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/nissanfairladyz.jpg?raw=true"
  ];
  // -----------------------------------------------
 // ▼関数A：指定画像を順に表示させる
