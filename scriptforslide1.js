@@ -1,8 +1,8 @@
 var imgset = [
-    "/image/hondajade.jpg",
-    "/image/hondastepwgn.jpg",
-    "/image/hondacivic.jpg",
-    "/image/hondacrz.jpg"
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/hondajade.jpg?raw=true",
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/hondastepwgn.jpg?raw=true",
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/hondacivic.jpg?raw=true",
+    "https://github.com/Mi4ulement/kimatsukadai/blob/main/image/hondacrz.jpg?raw=true"
  ];
  // -----------------------------------------------
 // ▼関数A：指定画像を順に表示させる
